@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api"; // Your backend URL
+const BASE_URL = "https://project002-backend.vercel.app/api"; // Your backend URL
 
 // Fetch contact info
 export const fetchContact = async () => {
